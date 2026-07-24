@@ -14,7 +14,7 @@ dependencies = [
 description = "Classes for doing statistics."
 license = "BSD-2-Clause"
 name = "hpp-statistics"
-version = "9.0.0"
+version = "9.0.2"
 
 [tool.cmeel]
 has-sitelib = false
